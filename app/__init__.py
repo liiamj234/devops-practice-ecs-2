@@ -1,0 +1,2 @@
+
+# Makes "app" a package so `from app.main import app` works.
