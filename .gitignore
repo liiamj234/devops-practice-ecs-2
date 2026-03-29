@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Terraform (never commit state or caches)
+**/terraform.tfstate
+**/terraform.tfstate.*
+**/.terraform/
